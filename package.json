@@ -1,6 +1,7 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author":"Mayur K Setty",
+	"name": "fcc-learn-npm-package-json",
+	"description": "Free code camp npm and backend development assignments!",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
